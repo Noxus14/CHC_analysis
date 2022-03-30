@@ -1,0 +1,5 @@
+Source.Name	Array.Data.File	Factor.Value.phenotype		Time.treatment
+file01.CEL	File01.CEL	TypePhenotype.Control	        Control
+file02.CEL	File02.CEL	TypePhenotype.Control	        Control-2week
+file03.CEL	File03.CEL	TypePhenotype.treatment	        treatment-4week
+fileN.CEL   	FileN.CEL   	TypePhenotype.OtherTreatment    OtherTreatment-4week
